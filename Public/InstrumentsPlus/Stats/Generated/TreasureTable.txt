@@ -1,0 +1,102 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "-1"
+object category "I_UNI_LOW_StolyarofsTableLute",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MOT_Instrument_Siren_Song_Lyre",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_TCT_Instrument_Reveler_Drum",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_XGE_Instrument_Illusion_Violin",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DMG_Instrument_Haunting_Flute",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_LOW_FalataericCliLyre",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_LOW_DostrealtsPiccolo",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_LOW_GlimmergadSelgauntFiddle",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_LOW_KiamGodasKilatDrum",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_DMG_Instrument_Ollamh_Lute",1,0,0,0,0,0,0,0
+
+
+
+new treasuretable "ST_MusicInstrument_Common"
+new subtable "1,1"
+object category "I_ARM_Instrument_Drum",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Flute",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Lute",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Lute_B",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Lyre",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Violin",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MusicInstrument_Uncommon"
+new subtable "1,1"
+object category "I_TCE_Instrument_Generic_Drum_1",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Flute_1",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lute_1",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lyre_1",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Violin_1",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MusicInstrument_Rare"
+new subtable "1,1"
+object category "I_TCE_Instrument_Generic_Drum_2",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Flute_2",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lute_2",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lyre_2",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Violin_2",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MusicInstrument_VeryRare"
+new subtable "1,1"
+object category "T_ST_MusicInstrument_VeryRare_Unique",1,0,0,0,0,0,0,0
+object category "I_TCE_Instrument_Generic_Drum_3",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Flute_3",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lute_3",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Lyre_3",1,0,0,0,0,0,0,0
+object category "I_INP_Instrument_Generic_Violin_3",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MusicInstrument_VeryRare_Unique"
+new subtable "1,1"
+object category "I_UNI_LOW_StolyarofsTableLute",1,0,0,0,0,0,0,0
+object category "I_MOT_Instrument_Siren_Song_Lyre",1,0,0,0,0,0,0,0
+object category "I_TCT_Instrument_Reveler_Drum",1,0,0,0,0,0,0,0
+object category "I_XGE_Instrument_Illusion_Violin",1,0,0,0,0,0,0,0
+object category "I_DMG_Instrument_Haunting_Flute",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_MusicInstrument"
+new subtable "1,1"
+object category "T_ST_MusicInstrument_Common",1,0,0,0,0,0,0,0
+new subtable "0,4;1,5;2,1"
+object category "T_ST_MusicInstrument_Uncommon",1,0,0,0,0,0,0,0
+new subtable "0,2;1,1"
+object category "T_ST_MusicInstrument_Rare",1,0,0,0,0,0,0,0
+new subtable "0,4;1,1"
+object category "T_ST_MusicInstrument_VeryRare",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MusicTrader"
+new subtable "1,1"
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_LOW_KiamGodasKilatDrum",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_LOW_DostrealtsPiccolo",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DMG_Instrument_Ollamh_Lute",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_LOW_FalataericCliLyre",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_LOW_GlimmergadSelgauntFiddle",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "T_ST_MusicInstrument_VeryRare_Unique",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "T_ST_MusicInstrument_VeryRare",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "T_ST_MusicInstrument_Rare",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "T_ST_MusicInstrument_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Bard",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_MusicBox",1,0,0,0,0,0,0,0

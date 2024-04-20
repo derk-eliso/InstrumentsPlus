@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children> 
+				<!-- Generic -->
+                <node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h293bbe8f2d914ab79a99060a7e90c4731349" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hdd3af54f83ef4eada9bcff84834b71556113" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b5ab5f58-dc5b-4b06-9b86-3860b4e5edfd" />
+					<attribute id="Name" type="LSString" value="TCE_Instrument_Generic_Drum_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c9ea428-7679-434c-9679-071847c648a6" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="TCE_Instrument_Generic_Drum_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h414e69c30bcb4bcb9af425c19b90d671cbgg" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h6a0437e491bb4459b2396f48f9b15e0a49d3" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3afcdbda-820c-4f6d-84f9-842979869869" />
+					<attribute id="Name" type="LSString" value="TCE_Instrument_Generic_Drum_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c9ea428-7679-434c-9679-071847c648a6" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="TCE_Instrument_Generic_Drum_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1479c56c976445d59e9f1966c0a41866dfb7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h20dc5f2e4afc496c88af4835a07370580570" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3af95624-11bb-4282-bff2-3afc70f792be" />
+					<attribute id="Name" type="LSString" value="TCE_Instrument_Generic_Drum_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c9ea428-7679-434c-9679-071847c648a6" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="TCE_Instrument_Generic_Drum_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hafea9113dbe74453a595b469b260dde35762" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4ecba8c5598f4b0ea56b5c0e1a183877g61f" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1ed35a84-129b-487b-879a-c623183ea3c7" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Flute_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="848ad8dc-59f3-464b-b8b2-95eab6022446" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Flute_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h82a0572cef9c469aba69fbc198bd461bb0g7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9ebb8b30bd7c4aedadc9cf0018d7ac92b7dd" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bd35115f-0b45-4d9b-a09a-aa478ea4f216" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Flute_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="848ad8dc-59f3-464b-b8b2-95eab6022446" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Flute_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h5af0c4be02cc406e804ed7cde448967ea7f5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h384b68becd4544fa841fa03a6f7a74c4637f" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="144550a8-a5b7-4117-ac12-315d2caa38e7" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Flute_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="848ad8dc-59f3-464b-b8b2-95eab6022446" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Flute_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb86a06aa1bca45deb7996a7b39fe502922c0" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h44742eb1392b4625afc8f80571afa0ce540c" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="33756e42-70e7-42f2-8bfe-72b7da35ac92" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lute_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8f98a7e7-c773-4b58-9127-5cf79b9206e9" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lute_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h94330dd754b747ffa6c64c1a55e64fde6cc3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd8d4519f03664e9d8c0d59e276c920b314e8" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c25e3f58-f1f9-4f35-ae74-d96cfb45adc5" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lute_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8f98a7e7-c773-4b58-9127-5cf79b9206e9" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lute_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h16798ec61290476b84d54ae002c24b55gc85" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc51fb88d69ab4558bfda855efd22bcd15203" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c14c26a9-a657-484f-9997-8f1d4245dd1b" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lute_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8f98a7e7-c773-4b58-9127-5cf79b9206e9" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lute_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h89db3fc913b94f4a9f8f7a95d128715fd9gb" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h36a82cb1c0434af6bbbfbf06c448265b7bcd" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="003e1309-47ae-4377-9052-f9c0cdbd64aa" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Violin_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aca5d144-773b-42ba-aca1-6903c60c418c" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Violin_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0333f87a9d654db4a97446cad642dc4a104d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h5c1706d656114896873fdcc6179520b39a49" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="81322ffe-a8f3-4c0b-aa81-75468b1e08ad" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Violin_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aca5d144-773b-42ba-aca1-6903c60c418c" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Violin_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h26728d2b718945d7a896180e7b1476940g2e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h66800b0bf3c84d9cb512e67f9c24403c54e0" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2498c031-6f5a-4f3d-9739-1ebf1bca3631" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Violin_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aca5d144-773b-42ba-aca1-6903c60c418c" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Violin_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h5c7e1933134f4b53adb2944c02220141f3af" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hea7596985a294aa79947a97f934a4aecgc05" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e8797ae6-921d-4fa0-9393-7b8a18889ec9" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lyre_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lyre_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h52322d6381254b7fb6dbf2527a52c36fca61" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h0dbdf48c116240a8b3d0bd83e07fb6fdgd3c" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="84f711ff-58d6-424d-98b3-ab3b5a59da7b" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lyre_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lyre_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h4d56e536e5ec4ea289f223301b17ab04ga0g" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd288d44cae02430eb10156c1e819f479e763" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="eaaee3fb-d823-463b-992f-04f8c763364c" />
+					<attribute id="Name" type="LSString" value="INP_Instrument_Generic_Lyre_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="INP_Instrument_Generic_Lyre_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<!-- Unique-->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h3a507d8575b8484ea94ce481d0d224c0e3df" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h0002afe174464c449f1e1685fcdd9f097e1e" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bafafeee-d6c5-46d9-a18d-51bcc3819662" />
+					<attribute id="Name" type="LSString" value="DMG_Instrument_Ollamh_Lute" />
+					<attribute id="ParentTemplateId" type="FixedString" value="8f98a7e7-c773-4b58-9127-5cf79b9206e9" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="DMG_Instrument_Ollamh_Lute" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbba0592630ca4e5faaee43c6f218d0f0cb8b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h43bd2d69c2434234a9d005d7e81109961dga" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3049b379-b251-4c25-bee6-f64f7b08526e" />
+					<attribute id="Name" type="LSString" value="MOT_Instrument_Siren_Song_Lyre" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="MOT_Instrument_Siren_Song_Lyre" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h3cd54dbfe98c4ffe8556bee62294a552f5ee" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4f56a7ae4b014750b10e0e246843feed60g2" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e6eb2316-0ab3-49da-bd6d-720e4f47a5da" />
+					<attribute id="Name" type="LSString" value="TCT_Instrument_Reveler_Drum" />
+					<attribute id="ParentTemplateId" type="FixedString" value="76944b2f-1e79-4c22-8d9a-e6c30e5194e0" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="TCT_Instrument_Reveler_Drum" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he6c1a94f23e24f5c8881d544090c00a5b1ca" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h5486c3b3f08c4d4abd6afcfe77eb4bbaf991" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2c0281d9-a3aa-4bf6-8f10-e92a89295549" />
+					<attribute id="Name" type="LSString" value="XGE_Instrument_Illusion_Violin" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aca5d144-773b-42ba-aca1-6903c60c418c" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="XGE_Instrument_Illusion_Violin" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8e2b0a9788a84f58b5b1c2052f7837ed77a5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hcaed44918ad34cc8aa2c529fb61029531e28" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="25578469-745f-4ba0-a3bf-a8e1c55630f1" />
+					<attribute id="Name" type="LSString" value="DMG_Instrument_Haunting_Flute" />
+					<attribute id="ParentTemplateId" type="FixedString" value="848ad8dc-59f3-464b-b8b2-95eab6022446" />
+					<attribute id="ReadinessFlags" type="uint32" value="132" />
+					<attribute id="Stats" type="FixedString" value="DMG_Instrument_Haunting_Flute" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
+ 

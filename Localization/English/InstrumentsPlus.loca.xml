@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <contentList>
+    <!-- Passives -->
+    <content contentuid="h2dc2dcc8b6c74fa1a237e51fe165b910fdfa" version="1">Rhythm Maker</content>
+    <content contentuid="h22e3ad9602ec4c41b67dfbc053d3a2fd4702" version="1">While holding this drum, you gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Spell Attack Rolls&lt;/LSTag&gt; and +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h1be291554473406986992209e8cec38143cf" version="1">Deadeye</content>
+    <content contentuid="h7c2f4ad2b5274511a97cb1f3b0a9e099665a" version="1">While holding this fife, you gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal an additional [2] damage.</content>
+    <content contentuid="h913ac3ea43274a14b006c5413ff6dd57c5b7" version="1">Defender</content>
+    <content contentuid="h1af515cd7f97473a8c4c6899fae3b444dgd7" version="1">While holding this dulcimer, your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is increased by [1] and your incoming damage is reduced by [2].</content>
+    <content contentuid="h2c08309ab5474370a642a72610ca1edc6597" version="1">Critical Cadence</content>
+    <content contentuid="hf4ea1767166e4472958010b5d85fb1772d8f" version="1">While holding this violin, the number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; is reduced by [1]. This effect can stack.</content>
+    <content contentuid="hea7890cafd394f9cb470186b436f943d05ba" version="1">Vanguard</content>
+    <content contentuid="hbdc4607f32244d7bbda39ef8fe36b21fg0c3" version="1">While holding this lyre, you gain a +[1] bonus to Initiative Rolls.</content>
+    <content contentuid="h1eb880b8545444feb7fccc44f4732444825g" version="1">Reveler</content>
+    <content contentuid="h86d5c5949a97476d90b8ba1eaa8b547474e7" version="1">While holding this drum, you gain a +[1] bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h68ce857a929c4c3eb263ff66dd428599220g" version="1">Dostrealt's Disadvantage</content>
+    <content contentuid="hdfbaf5ba61ce4225b450a189643e21336d22" version="1">While you grasp Dostrealt's Piccolo, a shroud of obscurity descends upon your senses, distorting your perception and casting shadows where there should be light, akin to the enigmatic veil that once obscured the sight of the famed blind wizard himself.</content>
+    <!-- Generic Drums -->
+    <content contentuid="h293bbe8f2d914ab79a99060a7e90c4731349" version="1">+1 Rhythm Maker's Drum</content>
+    <content contentuid="hdd3af54f83ef4eada9bcff84834b71556113" version="1">A basic drum crafted for novice spellcasters, resonating with mystical rhythms to enhance spellcasting abilities with its primal beat.</content>
+    <content contentuid="h414e69c30bcb4bcb9af425c19b90d671cbgg" version="1">+2 Rhythm Maker's Drum</content>
+    <content contentuid="h6a0437e491bb4459b2396f48f9b15e0a49d3" version="1">A refined drum with improved craftsmanship, pulsating with arcane energy to amplify spellcasting prowess for seasoned enchanters.</content>
+    <content contentuid="h1479c56c976445d59e9f1966c0a41866dfb7" version="1">+3 Rhythm Maker's Drum</content>
+    <content contentuid="h20dc5f2e4afc496c88af4835a07370580570" version="1">An expertly-crafted drum of very rare quality, infused with the essence of a master spellweaver, empowering spellcasters with unparalleled magical resonance and potent incantations.</content>
+    <!-- Generic Flutes -->
+    <content contentuid="hafea9113dbe74453a595b469b260dde35762" version="1">+1 Deadeye's Fife</content>
+    <content contentuid="h4ecba8c5598f4b0ea56b5c0e1a183877g61f" version="1">A basic fife crafted for novices, offering modest improvements in accuracy and damage for budding marksmen</content>
+    <content contentuid="h82a0572cef9c469aba69fbc198bd461bb0g7" version="1">+2 Deadeye's Fife</content>
+    <content contentuid="h9ebb8b30bd7c4aedadc9cf0018d7ac92b7dd" version="1">A refined fife with enhanced craftsmanship, delivering sharper tones and increased damage for seasoned shooters.</content>
+    <content contentuid="h5af0c4be02cc406e804ed7cde448967ea7f5" version="1">+3 Deadeye's Fife</content>
+    <content contentuid="h384b68becd4544fa841fa03a6f7a74c4637f" version="1">An expertly-crafted fife of very rare quality, imbued with the essence of a master marksman, granting unparalleled accuracy and devastating damage on the battlefield.</content>
+    <!-- Generic Lutes -->
+    <content contentuid="hb86a06aa1bca45deb7996a7b39fe502922c0" version="1">+1 Defender's Dulcimer</content>
+    <content contentuid="h44742eb1392b4625afc8f80571afa0ce540c" version="1">A basic dulcimer crafted for novice defenders, offering modest enhancements to resilience and damage mitigation.</content>
+    <content contentuid="h94330dd754b747ffa6c64c1a55e64fde6cc3" version="1">+2 Defender's Dulcimer</content>
+    <content contentuid="hd8d4519f03664e9d8c0d59e276c920b314e8" version="1">A refined dulcimer with improved craftsmanship, providing strengthened defenses and reduced damage for seasoned guardians.</content>
+    <content contentuid="h16798ec61290476b84d54ae002c24b55gc85" version="1">+3 Defender's Dulcimer</content>
+    <content contentuid="hc51fb88d69ab4558bfda855efd22bcd15203" version="1">An expertly-crafted dulcimer of very rare quality, suffused with the essence of a master defender, bestowing unmatched resilience and unparalleled damage reduction upon its wielder.</content>
+    <!-- Generic Violins -->
+    <content contentuid="h89db3fc913b94f4a9f8f7a95d128715fd9gb" version="1">+1 Critical Cadence Violin</content>
+    <content contentuid="h36a82cb1c0434af6bbbfbf06c448265b7bcd" version="1">A basic violin crafted for aspiring performers, imbuing a subtle increase in critical chance with its melodious strains.</content>
+    <content contentuid="h0333f87a9d654db4a97446cad642dc4a104d" version="1">+2 Critical Cadence Violin</content>
+    <content contentuid="h5c1706d656114896873fdcc6179520b39a49" version="1">A finely-tuned violin with enhanced craftsmanship, resonating with precise tones to elevate critical chance for seasoned players.</content>
+    <content contentuid="h26728d2b718945d7a896180e7b1476940g2e" version="1">+3 Critical Cadence Violin</content>
+    <content contentuid="h66800b0bf3c84d9cb512e67f9c24403c54e0" version="1">An exquisite violin of very rare quality, emanating a mesmerizing melody that heightens critical chance to extraordinary levels, a testament to the masterful artistry of its creator.</content>
+    <!-- Generic Lyres -->
+    <content contentuid="h5c7e1933134f4b53adb2944c02220141f3af" version="1">+1 Vanguard's Verse Lyre</content>
+    <content contentuid="hea7596985a294aa79947a97f934a4aecgc05" version="1">A basic lyre crafted for novice adventurers, harmonizing with invigorating melodies to heighten alertness and readiness for battle</content>
+    <content contentuid="h52322d6381254b7fb6dbf2527a52c36fca61" version="1">+2 Vanguard's Verse Lyre</content>
+    <content contentuid="h0dbdf48c116240a8b3d0bd83e07fb6fdgd3c" version="1">A refined lyre with improved craftsmanship, weaving enchanting tunes that bolster vigilance and swift reaction for seasoned warriors.</content>
+    <content contentuid="h4d56e536e5ec4ea289f223301b17ab04ga0g" version="1">+3 Vanguard's Verse Lyre</content>
+    <content contentuid="hd288d44cae02430eb10156c1e819f479e763" version="1">An expertly-crafted lyre of very rare quality, resonating with the essence of a master tactician, instilling unparalleled alertness and battle-readiness in its wielder, ensuring victory on the frontline.</content>
+    <!-- Unique Instruments -->
+    <content contentuid="h3a507d8575b8484ea94ce481d0d224c0e3df" version="1">Ollamh Harp</content>
+    <content contentuid="h0002afe174464c449f1e1685fcdd9f097e1e" version="1">The first Ollamh harps were created by a legendary bard in the Moonshae Isles named Falataer. He used them to test and reward the students of the Ollamh level of his bardic college, which came to be regarded individually as a legendary bard college in its own right.</content>
+    <content contentuid="hbba0592630ca4e5faaee43c6f218d0f0cb8b" version="1">Siren Song Lyre</content>
+    <content contentuid="h43bd2d69c2434234a9d005d7e81109961dga" version="1">A hauntingly beautiful instrument, its melodic strains whisper of distant shores and lost dreams, bewitching all who hear with its enchanting allure and mysterious power.</content>
+    <content contentuid="h3cd54dbfe98c4ffe8556bee62294a552f5ee" version="1">Reveler's Hand Drum</content>
+    <content contentuid="h4f56a7ae4b014750b10e0e246843feed60g2" version="1">Infused with the enchanting magic of revelry, its rhythmic beats compel all who hear to dance with unbridled joy, igniting spontaneous celebrations wherever its lively tunes are played, even coaxing reluctant feet to join the revelry.</content>
+    <content contentuid="he6c1a94f23e24f5c8881d544090c00a5b1ca" version="1">Violin of Illusions</content>
+    <content contentuid="h5486c3b3f08c4d4abd6afcfe77eb4bbaf991" version="1">Its haunting melodies weave a tapestry of enchantment, conjuring vivid illusions that dance before the mind's eye of listeners, blurring the lines between reality and fantasy with each haunting note.</content>
+    <content contentuid="h8e2b0a9788a84f58b5b1c2052f7837ed77a5" version="1">Pipe of Haunting</content>
+    <content contentuid="hcaed44918ad34cc8aa2c529fb61029531e28" version="1">Its eerie tunes echo with whispers of the beyond, casting a chilling aura that seeps into the minds of listeners, stirring primal fears and planting seeds of paranoia that grow with each haunting refrain.</content>
+    <!-- Spells -->
+    <content contentuid="ha890fb053f5d49a19f298b0732f00daae3e7" version="1">Sound Burst</content>
+    <content contentuid="he12e1980686148d38e4bde2c6c91d3eb0eac" version="1">Release an echo of damaging sound waves that may &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; enemies.</content>
+    
+  </contentList>
